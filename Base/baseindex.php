@@ -50,7 +50,7 @@
             <div class="row form-group gx-2 gy-2 mt-5 ">
                 <h5>Click below to go to  the relevant sections</h5>
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="/Project 1/Media/gs7.jpg" class="card-img-top" alt="...">
+                    <img src="../Project 1/Media/gs7.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 1 - 10</h5>
                         <p class="card-text">the first ten projects </p>
@@ -59,7 +59,7 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="/Project 2/Media/thumbnail.png" class="card-img-top" alt="...">
+                    <img src="../Project 2/Media/thumbnail.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 11 - 20</h5>
                         <p class="card-text"> The next ten, things are starting to get challenging </p>
@@ -68,7 +68,7 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="/Project 3/media/rotatingNavThumbnail.png" class="card-img-top" alt="...">
+                    <img src="../Project 3/media/rotatingNavThumbnail.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 21 - 30</h5>
                         <p class="card-text"> What even is this?</p>
@@ -77,7 +77,7 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="/Project 4/media/projectFourThumbnail.png" class="card-img-top" alt="...">
+                    <img src="../Project 4/media/projectFourThumbnail.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 31-40</h5>
                         <p class="card-text"> Are we there yet? Can we make it? </p>
@@ -86,7 +86,7 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="/Project 5/media/RE4wwte (1).jpg" class="card-img-top" alt="...">
+                    <img src="../Project 5/media/RE4wwte (1).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 41 - 50</h5>
                         <p class="card-text"> The last ten projects. Woohooo! </p>
