@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --left-side-colour: rgba(87, 84, 236, 0.7);
+    --right-side-colour: pink;
+    --left-btn-hover-colour: rgba(87, 84, 236);
+    --right-btn-hover-colour: rgba(28, 122, 28, 1);
+    --hover-width: 75%;
+    --other-width: 25%;
+    --speed: 1000ms
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    height: 100vh;
+    overflow:hidden;
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0.295);
+    position: fixed;
+    top: 0;
+    left:20%;
+    width: 60%; 
+    z-index: 10;
+} 
+
+.card-img-top {
+    height: 150px;
+}
+
+.containerJS {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+}
+
+.split {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.split.left {
+    left: 0;
+    background: url('./media/Boardgames.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.split.right {
+    right: 0;
+    background: url('./media/pcGames.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.split.left::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--left-side-colour);
+}
+
+
+.split.right::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    container: 100%;
+    background-color: var(--right-side-colour);
+}
+
+h1 {
+    font-size: 4rem;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+}
+
+p {
+    font-size: 4rem;
+    color: white ;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%);
+    white-space: normal;
+    border: white solid 0.2rem;
+    padding: 1.5rem;
+    background-color: rgba(180, 155, 155, 0.082);
+}
+
+.btn {
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translateX(-50%);
+    text-decoration: none;
+    color: white;
+    border: white solid 0.2rem;
+    font-size: 1rem;
+    width: 15rem;
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+a{
+color: rgb(219, 189, 14);}
+
+
+.split.left .btn:hover {
+    background-color: var(--left-btn-hover-colour);
+    border-color: var(--left-btn-hover-colour);
+}
+
+.split.right .btn:hover {
+    background-color: var(--right-btn-hover-colour);
+    border-color: var(--right-btn-hover-colour);
+}
+
+.hover-left .left {
+    width: var(--hover-width);
+}
+
+.hover-left .right {
+    width: var(--other-width);
+}
+
+.hover-right .right {
+    width: var(--hover-width);
+}
+
+.hover-right.left {
+    width: var(--other-width);
+}
+
+.split.left,
+.split.left::before,
+.split.right,
+.split.right::before {
+    transition: all var(--speed) ease-in-out;
+}

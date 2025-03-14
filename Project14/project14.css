@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: 'Muli', sans-serif;
+    background-color: #eafbff;
+    background-image: linear-gradient(to bottom,
+            #d4c0d0 0%,
+            #d4c0d0 50%,
+            #5290f9 50%,
+            #5290f9 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    position: fixed;
+    top: 20vh;
+    left: 30%;
+    font-size: 20px;
+}
+
+
+
+nav {
+    background-color: beige;
+    padding: 20px;
+    width: 80px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    transition: width 0.6s linear;
+}
+
+nav.active {
+    width: 52vw;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 0;
+    transition: width 0.6 linear;
+}
+
+nav.active ul {
+    width: 100%;
+}
+
+nav ul li {
+    transform: rotateY('0deg');
+    opacity: 0;
+    transition: transform 0.6s linear, opacity 0.6s linear;
+}
+
+nav.active ul li {
+    opacity: 1;
+    transform: rotateY('360deg');
+    background-color: none;
+    border: none;
+}
+
+nav ul a {
+    position: relative;
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+    background-color: pink;
+}
+
+
+@media(max-width: 580px) {
+    .intro {
+        left:5%;
+        font-size: 15px;
+    }
+
+    nav{
+    width: 300px;}
+}
+.icon {
+    background-color: beige;
+    border: 0;
+    cursor: pointer;
+    position: relative;
+    height: 30px;
+    width: 30px;
+}
+
+icon:focus {
+    outline: 0;
+}
+
+.icon .line {
+    background-color: #5290f9;
+    height: 2px;
+    position: absolute;
+    width: 20px;
+    top: 5px;
+    left: 5px;
+    transition: transform 0.6s linear;
+}
+
+/* 10px space between the lines */
+
+.icon .line2 {
+    top: 15px;
+    bottom: 13px;
+}
+
+.icon .line3 {
+    top: 25px;
+}
+
+nav.active .icon .line1 {
+    transform: rotate(-765deg) translateY(6.75px);
+}
+
+nav.active .icon .line2 {
+    transform: rotate(765deg) translateY(-6.75px);
+}
+
+nav.active .icon .line3 {
+    display: none;
+}
+
+nav ul.dropdown-menu {
+    padding-top: 20px;
+    background-color: rgb(238, 208, 213);
+    width: 200% !important
+}
+
+nav ul.dropdown-menu .dropdown-item {
+    background-color: transparent;
+    text-decoration: none;
+}
