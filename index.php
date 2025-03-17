@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include 'header.php'; ?>
+<?php include './Base/header.php'; ?>
 
     <div class="px-4 py-5 my-5 text-center container-fluid">
         <p class="intro-space">
@@ -23,6 +23,7 @@
         </p>
         <img class="d-block mx-auto mb-4" src="../Base/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
         <h1 class="display-5 fw-bold text-body-emphasis">50 Projects in 50 Days!</h1>
+        <h2>Test</h2>
 
         <div class="container-fluid col-lg-12 ">
             <p class="lead mb-4 text-center intro-text">This is a learning course from <a
