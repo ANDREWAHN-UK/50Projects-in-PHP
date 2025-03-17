@@ -16,6 +16,7 @@
 <body>
 
 <?php include 'header.php'; ?>
+<p>Test index.php</p>
 
     <div class="px-4 py-5 my-5 text-center container-fluid">
         <p class="intro-space">
