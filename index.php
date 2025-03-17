@@ -15,7 +15,7 @@
 
 <body>
 
-<?php include './Base/header.php'; ?>
+<?php include '/Base/header.php'; ?>
 
     <div class="px-4 py-5 my-5 text-center container-fluid">
         <p class="intro-space">
