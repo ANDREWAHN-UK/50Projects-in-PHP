@@ -18,7 +18,7 @@
                            Projects 1 - 10
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/50Projects/Base/baseIndex1-10.php"> Overview of Projects 1 - 10</a></li>
+                            <li><a class="dropdown-item" href="/Base/baseIndex1-10.php"> Overview of Projects 1 - 10</a></li>
                             <li><a class="dropdown-item" href="../Project 1/project1.php">Project 1 - Expanding Cards</a></li>
                             <li><a class="dropdown-item" href="../Project 2/project2.php">Project 2 - Progress Steps</a></li>
                             <li><a class="dropdown-item" href="../Project 3/project3.php">Project 3 - Rotating Navigation</a></li>
@@ -37,7 +37,7 @@
                             Projects 11 - 20
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/50Projects/Base/baseIndex11-20.php"> Overview of Projects 11 - 20</a></li>
+                            <li><a class="dropdown-item" href="/Base/baseIndex11-20.php"> Overview of Projects 11 - 20</a></li>
                             <li><a class="dropdown-item" href="../Project11/project11.php">Project 11 - Key Codes</a></li>
                             <li><a class="dropdown-item" href="../Project12/project12.php">Project 12 - FAQ with toggles</a></li>
                             <li><a class="dropdown-item" href="../Project13/project13.php">Project 13 - Random Choice Picker</a></li>
