@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary ">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/Base/baseIndex.php"><img  src="./baseMedia/no-brain-loading.gif" alt="" srcset=""
+            <a class="navbar-brand" href="/Base/baseindex.php"><img  src="/Base/baseMedia/no-brain-loading.gif" alt="" srcset=""
                     width="55" height="55"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
