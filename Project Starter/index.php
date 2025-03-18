@@ -11,7 +11,7 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
-    <link rel="stylesheet" href="/Project Starter/style.css">
+    <link rel="stylesheet" href="./style.css">
    
 
     <title>Project Starter</title>
@@ -39,6 +39,6 @@
  
 
 </body>
-<script src="/Project Starter/script.js"></script>
+<script src="./script.js"></script>
 
 </html>
