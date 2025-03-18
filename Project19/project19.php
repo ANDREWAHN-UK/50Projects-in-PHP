@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
         integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-   <!-- Removed Bootstrap because somethingin it was clashing with the html.dark class, specifically the bootstrap background was overriding the .dark background set in the css -->
+   <!-- Removed Bootstrap because something in it was clashing with the html.dark class, specifically the bootstrap background was overriding the .dark background set in the css -->
 
     <link rel="stylesheet" href="/Base/baseStyle.css">
     <link rel="stylesheet" href="project19.css">
