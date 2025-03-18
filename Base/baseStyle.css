@@ -26,7 +26,6 @@ body {
     left: 20%;
     width: 60% !important;
     background-color: rgba(255, 255, 255, 0);
-    ;
 }
 
 .intro-text {
@@ -41,7 +40,7 @@ body {
     width: 500px;
 }
 
-/* these next 2 bits are to get the buttons in the cards always at the bottom of the carc */
+/* these next 2 bits are to get the buttons in the cards always at the bottom of the card */
 .btn {
     margin-top: auto;
 }
@@ -57,7 +56,7 @@ body {
         position: fixed;
         top: 0;
         left: 0;
-        width: 100vw;
+        width: 100vw!important;
     }
 
     img {
