@@ -23,14 +23,24 @@
     <div class="container mt-5 mb-5 container-1">
         <div class="row gy-5">
             <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
-
-                <h1>Project 21</h1>
-                <p>test</p>
-                <p>test</p>
-                
+               
+                <h1>Project 21 - Drag and Drop</h1>
+                <p>Click on the image to drag it from one box and drop it into another</p>
+                           
             </div>
         </div>
+        <div class="row gy-5">
+            <div class="col-lg-6 mx-auto  ">
+               
+          <div class="empty"><div class="fill" draggable="true"></div></div>
+          <div class="empty"></div>
+          <div class="empty"></div>
+          <div class="empty"></div>
+          <div class="empty"></div>
+                           
+            </div>
+        </div>
+
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
