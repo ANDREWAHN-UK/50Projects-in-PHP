@@ -17,7 +17,7 @@
 <body>
 
 <?php include '../Base/header.php'; ?>
-    <section class="bg"></section>
+    <section class="bg">
     <div class="loading-text">0%</div>
 
     <div class="row px-4 py-5 my-5 text-center explanation">
@@ -33,7 +33,7 @@
             </p>
         </div>
 
-    </div>
+    </div></section>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
