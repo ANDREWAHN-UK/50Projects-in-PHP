@@ -29,7 +29,7 @@
         <div class="row">
             <div class="col-lg-12  container-1">
                 <h1>Project 21 - Drag and Drop</h1>
-                <p>Click on the image to drag it from one box and drop it into another</p>
+                <p>Click on the image to drag it from one box and drop it into another <br> This introduces the className and drag related functions in javascript</p>
             </div>
 
         </div>
