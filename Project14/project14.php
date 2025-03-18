@@ -73,16 +73,16 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="/50Projects/Base/baseIndex21-30.php"> Overview of Projects 21 - 30</a></li>
-            <li><a class="dropdown-item" href="./Project 1/project1.php">Project 21 </a></li>
-            <li><a class="dropdown-item" href="#">Project 22</a></li>
-            <li><a class="dropdown-item" href="#">Project 23</a></li>
-            <li><a class="dropdown-item" href="#">Project 24</a></li>
-            <li><a class="dropdown-item" href="#">Project 25</a></li>
-            <li><a class="dropdown-item" href="#">Project 26</a></li>
-            <li><a class="dropdown-item" href="#">Project 27</a></li>
-            <li><a class="dropdown-item" href="#">Project 28</a></li>
-            <li><a class="dropdown-item" href="#">Project 29</a></li>
-            <li><a class="dropdown-item" href="#">Project 30</a></li>
+            <li><a class="dropdown-item" href="../Project21/project21.php">Project 21 - Drag and Drop </a></li>
+            <li><a class="dropdown-item" href="../Project21/project22.php">Project 22</a></li>
+            <li><a class="dropdown-item" href="../Project21/project23.php">Project 23</a></li>
+            <li><a class="dropdown-item" href="../Project21/project24.php">Project 24</a></li>
+            <li><a class="dropdown-item" href="../Project21/project25.php">Project 25</a></li>
+            <li><a class="dropdown-item" href="../Project21/project26.php">Project 26</a></li>
+            <li><a class="dropdown-item" href="../Project21/project27.php">Project 27</a></li>
+            <li><a class="dropdown-item" href="../Project21/project28.php">Project 28</a></li>
+            <li><a class="dropdown-item" href="../Project21/project29.php">Project 29</a></li>
+            <li><a class="dropdown-item" href="../Project21/project30.php">Project 30</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -131,8 +131,6 @@
         <div class="line line3"></div>
       </button>
 
-
-
     </nav>
 
   </div>
@@ -140,7 +138,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
     crossorigin="anonymous"></script>
-  <script src="baseScript.js"></script>
+
   <script src="./project14.js"></script>
 </body>
 

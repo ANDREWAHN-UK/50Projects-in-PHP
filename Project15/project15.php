@@ -28,7 +28,6 @@
           This could be useful for tracking visitors to a website.</p>
 
 
-
         <div class="container-for-icons">
           <!-- One counter countainer for each thing you want to increment -->
           <div class="counter-container">

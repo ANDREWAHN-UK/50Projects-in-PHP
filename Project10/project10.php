@@ -51,7 +51,7 @@
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
       crossorigin="anonymous"
     ></script>
-    <script src="../baseScript.js"></script>
+    <script src="../Project10/project10.js"></script>
   </body>
-  <script src="../Project10/project10.js"></script>
+  
 </html>
