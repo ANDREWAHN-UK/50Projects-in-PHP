@@ -1,3 +1,4 @@
+window.onload=function () {alert('doc loaded')}
 // declare our constants
 
 const buttons = document.querySelectorAll('.ripple')

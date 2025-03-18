@@ -22,9 +22,9 @@
 
     <div class="container mt-5 mb-5 ">
 
-    <p class="intro-space">
-        <!-- This intro space is needed to push the below image down properly -->
-    </p>
+        <p class="intro-space">
+            <!-- This intro space is needed to push the below image down properly -->
+        </p>
 
         <div class="row">
             <div class="col-lg-12  container-1">
@@ -46,7 +46,6 @@
                 <div class="empty"></div>
             </div>
         </div>
-
 
     </div>
 
