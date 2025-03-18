@@ -11,7 +11,7 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
-    <link rel="stylesheet" href="project20.css">
+    <link rel="stylesheet" href="./Project20.css">
 
     <title>Ripple Button</title>
 </head>
