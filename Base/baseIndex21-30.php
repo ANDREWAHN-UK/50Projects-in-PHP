@@ -54,9 +54,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project  - Lorem, ipsum.</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <h5 class="card-title">Project 22 - Drawing App</h5>
+                        <p class="card-text"> A drawing app, using the html element of canvas, and the js canvas api</p>
+                        <a href="../Project22/project22.php" class="btn btn-primary"> Doodle, anyone?
                         </a>
                     </div>
                 </div>

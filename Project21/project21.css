@@ -13,7 +13,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    overflow: hidden;
+    overflow: scroll;
     color: white;
 }
 
@@ -69,11 +69,11 @@ body {
         flex-direction: column;
     }
 
-    .empty:nth-of-type(4),
+    /* .empty:nth-of-type(4),
     .empty:nth-of-type(5),
     .empty:nth-of-type(6) {
         display: none;
-    }
+    } */
 
     .intro-space {
         display: block;
