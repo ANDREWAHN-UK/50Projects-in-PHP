@@ -11,8 +11,7 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
-    <link rel="stylesheet" href="./project22.css">
-   
+    <link rel="stylesheet" href="./project22.css">  
 
     <title>Project 22 - Drawing App</title>
 </head>
@@ -20,14 +19,18 @@
 <body>
 <?php include '../Base/header.php'; ?>
 
-    <div class="container mt-5 mb-5 container-1">
+    <div class="container mt-5 mb-5 ">
+
+    <p class="intro-space">
+            <!-- This intro space is needed to push the below image down properly -->
+        </p>
         <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
+            <div class="col-lg-6 mx-auto ">          
 
                 <h1>Drawing App</h1>
                 <p>This project combines mouse events and canvas api functions</p>
-                <p>test</p>
+                <p><a href="https://allpoetry.com/poem/221884-Doodling-by-hartofsilver">Pen in hand <br>
+                I doodle mindlessly</a></p>
                 
             </div>
         </div>
@@ -49,6 +52,5 @@
  <script src="./project22.js"></script>
 
 </body>
-
 
 </html>
