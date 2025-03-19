@@ -52,7 +52,7 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project22/media/project22thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 22 - Drawing App</h5>
                         <p class="card-text"> A drawing app, using the html element of canvas, and the js canvas api</p>

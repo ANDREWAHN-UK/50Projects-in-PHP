@@ -39,7 +39,7 @@
     <canvas id="canvas" width="800px" height="800px"></canvas>
     <div class="toolbox">
         <button id="decrease">-</button>
-        <span id="size">20</span>
+        <span id="size">5</span>
         <button id="increase">+</button>
         <input type="color" id="color">
         <button id="clear">x</button>
