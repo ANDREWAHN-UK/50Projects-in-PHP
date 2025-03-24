@@ -64,9 +64,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project  - Lorem, ipsum.</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <h5 class="card-title">Project 23 - Kinetic Loader</h5>
+                        <p class="card-text"> Using borders and keyframes to create animations</p>
+                        <a href="../Project23/project23.php" class="btn btn-primary"> Kinetic Loader.
                         </a>
                     </div>
                 </div>
