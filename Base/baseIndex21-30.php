@@ -66,7 +66,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Project 23 - Kinetic Loader</h5>
                         <p class="card-text"> Using borders and keyframes to create animations</p>
-                        <a href="../Project23/project23.php" class="btn btn-primary"> Kinetic Loader.
+                        <a href="../Project23/project23.php" class="btn btn-primary"> Kinetic Loader
                         </a>
                     </div>
                 </div>
