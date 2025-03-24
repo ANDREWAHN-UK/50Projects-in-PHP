@@ -35,9 +35,10 @@ body {
 
 .intro-space {
     position: static;
-    top: 100px;
+    margin-top: 100px;
     height: 500px;
     width: 500px;
+    margin-bottom: 100px;
 }
 
 /* these next 2 bits are to get the buttons in the cards always at the bottom of the card */
