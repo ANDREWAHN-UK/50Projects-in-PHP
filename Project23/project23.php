@@ -21,12 +21,16 @@
 <?php include '../Base/header.php'; ?>
 
     <div class="container mt-5 mb-5 container-1">
+
+    <p class="intro-space">
+            <!-- This intro space is needed to push the below image down properly -->
+        </p>
         <div class="row gy-5">
             <div class="col-lg-6 mx-auto  ">
              
 
                 <h1>Kinetic Loader</h1>
-                <p>Using borders and keyframes</p>
+                <p>Using borders and keyframes. This could be an interesting loading animation for a website</p>
 
                <div class="kinetic"></div>
 
