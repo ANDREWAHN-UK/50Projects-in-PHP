@@ -23,10 +23,14 @@
     <div class="container mt-5 mb-5 container-1">
         <div class="row gy-5">
             <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
+             
 
                 <h1>Kinetic Loader</h1>
                 <p>Using borders and keyframes</p>
+
+                <div class="kinetic">
+                    
+                </div>
                 
             </div>
         </div>
