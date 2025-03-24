@@ -28,9 +28,8 @@
                 <h1>Kinetic Loader</h1>
                 <p>Using borders and keyframes</p>
 
-                <div class="kinetic">
-                    
-                </div>
+               <div class="kinetic"></div>
+
                 
             </div>
         </div>
