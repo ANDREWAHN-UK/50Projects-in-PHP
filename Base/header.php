@@ -56,7 +56,7 @@
                             Projects 21 - 30
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/50Projects/Base/baseIndex21-30.php"> Overview of Projects 21 - 30</a></li>
+                            <li><a class="dropdown-item" href="/Base/baseIndex21-30.php"> Overview of Projects 21 - 30</a></li>
                             <li><a class="dropdown-item" href="../Project21/project21.php">Project 21 - Drag and Drop </a></li>
                             <li><a class="dropdown-item" href="../Project22/project22.php">Project 22 - Drawing App</a></li>
                             <li><a class="dropdown-item" href="../Project23/project23.php">Project 23 - Kinetic Loader</a></li>
@@ -75,7 +75,7 @@
                             Projects 31 - 40
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/50Projects/Base/baseIndex31-40.php"> Overview of Projects 31 - 40</a></li>
+                            <li><a class="dropdown-item" href="/Base/baseIndex31-40.php"> Overview of Projects 31 - 40</a></li>
                             <li><a class="dropdown-item" href="./Project 1/project1.php">Project 31 </a></li>
                             <li><a class="dropdown-item" href="#">Project 32</a></li>
                             <li><a class="dropdown-item" href="#">Project 33</a></li>
@@ -94,7 +94,7 @@
                             Projects 41 - 50
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/50Projects/Base/baseIndex41-50.php"> Overview of Projects 41 - 50</a></li>
+                            <li><a class="dropdown-item" href="/Base/baseIndex41-50.php"> Overview of Projects 41 - 50</a></li>
                             <li><a class="dropdown-item" href="./Project 1/project1.php">Project 41 -</a></li>
                             <li><a class="dropdown-item" href="#">Project 42</a></li>
                             <li><a class="dropdown-item" href="#">Project 43</a></li>
