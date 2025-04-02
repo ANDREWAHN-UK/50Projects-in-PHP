@@ -34,7 +34,7 @@
                  <span class="animated-bg animated-bg-text">&nbsp; </span>
              </p>
              <div class="author">
-                 <div class="prifle-img animated-bg" id="profile_img">
+                 <div class="profile-img animated-bg" id="profile_img">
                      <img src="./media/web-developer-portrait.jpg" alt="">
                  </div>
                  <div class="author-info">

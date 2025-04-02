@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: purple;
+  background-color: white;
   font-family: 'Roboto', sans-serif;
   margin: 0;
   display: flex;
@@ -38,16 +38,40 @@ img {
 }
 
 .card-content {
-  background-color: wheat;
+  background-color: rgb(233, 225, 212);
   padding: 30px;
 }
 
 .card-title {
   height: 20px;
   margin: 0px;
+  padding-bottom: 80px;
 }
 
 .card-excerpt {
   color: #777;
   margin: 10px 0 20px;
+}
+
+.author{
+display: flex;
+}
+
+.profile-img{
+border-radius: 50%;
+overflow: hidden;
+height: 40px;
+width: 40px;
+}
+
+.author-info{
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+margin-left: 10px;
+width: 100px;
+}
+
+.author-info small{
+color: pink;
 }
