@@ -38,7 +38,7 @@ img {
 }
 
 .card-content {
-  background-color: rgb(233, 225, 212);
+  background-color: white;
   padding: 30px;
 }
 
@@ -53,25 +53,50 @@ img {
   margin: 10px 0 20px;
 }
 
-.author{
-display: flex;
+.author {
+  display: flex;
 }
 
-.profile-img{
-border-radius: 50%;
-overflow: hidden;
-height: 40px;
-width: 40px;
+.profile-img {
+  border-radius: 50%;
+  overflow: hidden;
+  height: 40px;
+  width: 40px;
 }
 
-.author-info{
-display: flex;
-flex-direction: column;
-justify-content: space-around;
-margin-left: 10px;
-width: 100px;
+.author-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: 10px;
+  width: 100px;
 }
 
-.author-info small{
-color: pink;
+.author-info small {
+  color: pink;
+  margin-top: 5px;
+}
+
+.animated-bg {
+  background-image: linear-gradient(to right, #f6f7f8 0%, #edeef1 10%, #f6f7f8 20%, #f6f7f8 100%);
+  background-size: 200% 100%;
+  animation: bgPos 1s linear infinite;
+}
+
+.animated-bg-text {
+  border-radius: 50px;
+  display: inline-block;
+  margin: 0;
+  height: 10px;
+  width: 100%;
+}
+
+@keyframes bgPos {
+  0% {
+    background-position: 50% 0;
+  }
+
+  100% {
+    background-position: -150% 0;
+  }
 }

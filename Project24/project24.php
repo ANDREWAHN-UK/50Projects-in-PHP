@@ -22,24 +22,24 @@
 
      <div class="card">
          <div class="card-header animated-bg" id="header">
-             <img src="https://images.unsplash.com/photo-1659480142923-0cd01191e0e9?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+             &nbsp;
          </div>
          <div class="card-content">
              <h3 class="card-title animated-bg animated-bg-text" id="title">
-                 Lorem ipsum dolor sit amet consectetur.
+             &nbsp;
              </h3>
-             <p class="card-excerpt" id="excerpt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, dolorum?
+             <p class="card-excerpt" id="excerpt">   &nbsp;
                  <span class="animated-bg animated-bg-text">&nbsp; </span>
                  <span class="animated-bg animated-bg-text">&nbsp; </span>
                  <span class="animated-bg animated-bg-text">&nbsp; </span>
              </p>
              <div class="author">
                  <div class="profile-img animated-bg" id="profile_img">
-                     <img src="./media/web-developer-portrait.jpg" alt="">
+                 &nbsp;
                  </div>
                  <div class="author-info">
-                     <strong class="animated-bg animated-bg-text" id="name"></strong>
-                     <small class="animated-bg animated-bg-text" id="date">April 2nd, 2025</small>
+                     <strong class="animated-bg animated-bg-text" id="name"> &nbsp;</strong>
+                     <small class="animated-bg animated-bg-text" id="date">&nbsp;</small>
 
                  </div>
              </div>

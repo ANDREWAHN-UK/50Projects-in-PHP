@@ -75,7 +75,7 @@
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 24 - Content Placeholder</h5>
-                        <p class="card-text"> A nice looking card with animations, that can work for any content</p>
+                        <p class="card-text"> A nice looking card with animations, that can work for any content, such as reviews</p>
                         <a href="" class="btn btn-primary"> Content Placeholder
                         </a>
                     </div>
