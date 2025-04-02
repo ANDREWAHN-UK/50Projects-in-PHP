@@ -72,11 +72,11 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project24/media/Project24thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 24 - Content Placeholder</h5>
                         <p class="card-text"> A nice looking card with animations, that can work for any content, such as reviews</p>
-                        <a href="" class="btn btn-primary"> Content Placeholder
+                        <a href="../Project24/project24.php" class="btn btn-primary"> Content Placeholder
                         </a>
                     </div>
                 </div>
