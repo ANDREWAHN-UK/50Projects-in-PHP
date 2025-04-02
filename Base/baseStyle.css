@@ -34,12 +34,9 @@ body {
     margin: auto;
 }
 
-.intro-space {
-    position: fixed;
-    margin-top: 100px;
-    height: 500px;
-    width: 500px;
-    margin-bottom: 100px;
+/* this pushes the banner image down */
+.container-top{
+padding-top: 700px!important;
 }
 
 /* these next 2 bits are to get the buttons in the cards always at the bottom of the card */

@@ -16,11 +16,9 @@
 <body>
 
 <?php include 'header.php'; ?>
-    <div class="px-4 py-5 my-5 mt-5 text-center container-fluid ">
+    <div class="px-4 py-5 my-5 mt-5 text-center container-fluid container-top ">
       
-        <p class="intro-space">
-            <!-- This intro space is needed to push the below image down properly -->
-        </p>
+        
         <img class=" d-block mx-auto mb-4" src="../Base/baseMedia/this-is-glorious-amazing.gif" alt="" width="500" height="500">
         <h1 class="display-5 fw-bold text-body-emphasis">Projects 11 - 20!</h1>
 

@@ -17,10 +17,8 @@
 
 <?php include 'header.php'; ?>
 
-    <div class="px-4 py-5 my-5 text-center container-fluid">
-        <p class="intro-space">
-            <!-- This intro space is needed to push the below image down properly -->
-        </p>
+    <div class="px-4 py-5 my-5 text-center container-fluid container-top">
+      
         <img class="d-block mx-auto mb-4" src="../Base/baseMedia/take-off-plane.gif" alt="" width="500" height="500">
         <h1 class="display-5 fw-bold text-body-emphasis">Projects 1 - 10!</h1>
 
