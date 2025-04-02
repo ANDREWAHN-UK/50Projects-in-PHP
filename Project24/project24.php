@@ -35,7 +35,7 @@
              </p>
              <div class="author">
                  <div class="prifle-img animated-bg" id="profile_img">
-                     <img src="https://randomuser.me/api/portraits/men/45,jpg" alt="">
+                     <img src="./media/web-developer-portrait.jpg" alt="">
                  </div>
                  <div class="author-info">
                      <strong class="animated-bg animated-bg-text" id="name"></strong>
