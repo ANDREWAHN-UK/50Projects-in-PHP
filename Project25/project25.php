@@ -33,7 +33,7 @@
 
     <div class="hero">
         <div class="container">
-            <h1>Welcome to this fun Project</h1>
+            <h1>Project 25 - sticky navbar</h1>
             <p>Scrolling down past a cerain breakpopint, set in the js file, acrivates changes in the header styling</p>
         </div>
     </div>
