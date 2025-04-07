@@ -1,8 +1,8 @@
 // Use the below to test the js file has loaded
 
-window.onload = function () {
-  alert("doc loaded");
-};
+// window.onload = function () {
+//   alert("doc loaded");
+// };
 
 const header = document.getElementById("header");
 const title = document.getElementById("title");
