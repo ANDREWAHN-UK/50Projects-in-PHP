@@ -97,7 +97,7 @@
              <div class="row form-group gx-2 gy-2 mt-5">
                 <h5>Projects 26 - 30</h5>
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Project26/images/project25Thumb.png" class="card-img-top" alt="...">
+                    <img src="../Project26/images/project26Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 26 - Double Vertical Slider</h5>
                         <p class="card-text"> 2 sliders, in opposite directions, coordinated to match the correct text and image</p>
