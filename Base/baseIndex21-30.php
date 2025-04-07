@@ -97,11 +97,11 @@
              <div class="row form-group gx-2 gy-2 mt-5">
                 <h5>Projects 26 - 30</h5>
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project26/images/project25Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project 26 - Lorem, ipsum.</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="../Project26/project26.php" class="btn btn-primary"> Lorem, ipsum.
+                        <h5 class="card-title">Project 26 - Double Vertical Slider</h5>
+                        <p class="card-text"> 2 sliders, in opposite directions, coordinated to match the correct text and image</p>
+                        <a href="../Project26/project26.php" class="btn btn-primary"> Double Vertical Slider
                         </a>
                     </div>
                 </div>
