@@ -76,16 +76,16 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="/Base/baseIndex31-40.php"> Overview of Projects 31 - 40</a></li>
-                            <li><a class="dropdown-item" href="./Project 1/project1.php">Project 31 </a></li>
-                            <li><a class="dropdown-item" href="#">Project 32</a></li>
-                            <li><a class="dropdown-item" href="#">Project 33</a></li>
-                            <li><a class="dropdown-item" href="#">Project 34</a></li>
-                            <li><a class="dropdown-item" href="#">Project 35</a></li>
-                            <li><a class="dropdown-item" href="#">Project 36</a></li>
-                            <li><a class="dropdown-item" href="#">Project 37</a></li>
-                            <li><a class="dropdown-item" href="#">Project 38</a></li>
-                            <li><a class="dropdown-item" href="#">Project 39</a></li>
-                            <li><a class="dropdown-item" href="#">Project 40</a></li>
+                            <li><a class="dropdown-item" href="../Project31/project31.php">Project 31 </a></li>
+                            <li><a class="dropdown-item" href="../Project32/project32.php">Project 32</a></li>
+                            <li><a class="dropdown-item" href="../Project33/project33.php">Project 33</a></li>
+                            <li><a class="dropdown-item" href="../Project34/project34.php">Project 34</a></li>
+                            <li><a class="dropdown-item" href="../Project35/project35.php">Project 35</a></li>
+                            <li><a class="dropdown-item" href="../Project36/project36.php">Project 36</a></li>
+                            <li><a class="dropdown-item" href="../Project37/project37.php">Project 37</a></li>
+                            <li><a class="dropdown-item" href="../Project38/project38.php">Project 38</a></li>
+                            <li><a class="dropdown-item" href="../Project39/project39.php">Project 39</a></li>
+                            <li><a class="dropdown-item" href="../Project40/project40.php">Project 40</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
