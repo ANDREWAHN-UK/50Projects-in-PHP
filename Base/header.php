@@ -63,7 +63,7 @@
                             <li><a class="dropdown-item" href="../Project24/project24.php">Project 24 - Content Placeholder</a></li>
                             <li><a class="dropdown-item" href="../Project25/project25.php">Project 25 - Sticky NavBAr</a></li>
                             <li><a class="dropdown-item" href="../Project26/project26.php">Project 26 - Vertical Slider</a></li>
-                            <li><a class="dropdown-item" href="../Project27/project27.php">Project 27</a></li>
+                            <li><a class="dropdown-item" href="../Project27/project27.php">Project 27 - Toast Notifications</a></li>
                             <li><a class="dropdown-item" href="../Project28/project28.php">Project 28</a></li>
                             <li><a class="dropdown-item" href="../Project29/project29.php">Project 29</a></li>
                             <li><a class="dropdown-item" href="../Project30/project30.php">Project 30</a></li>
