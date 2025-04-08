@@ -64,9 +64,9 @@
                             <li><a class="dropdown-item" href="../Project25/project25.php">Project 25 - Sticky NavBAr</a></li>
                             <li><a class="dropdown-item" href="../Project26/project26.php">Project 26 - Vertical Slider</a></li>
                             <li><a class="dropdown-item" href="../Project27/project27.php">Project 27 - Toast Notifications</a></li>
-                            <li><a class="dropdown-item" href="../Project28/project28.php">Project 28</a></li>
-                            <li><a class="dropdown-item" href="../Project29/project29.php">Project 29</a></li>
-                            <li><a class="dropdown-item" href="../Project30/project30.php">Project 30</a></li>
+                            <li><a class="dropdown-item" href="../Project28/project28.php">Project 28 - GitHub Profiles</a></li>
+                            <li><a class="dropdown-item" href="../Project29/project29.php">Project 29 - Double Heart Click</a></li>
+                            <li><a class="dropdown-item" href="../Project30/project30.php">Project 30 - Auto Text Effect</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -76,16 +76,16 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="/Base/baseIndex31-40.php"> Overview of Projects 31 - 40</a></li>
-                            <li><a class="dropdown-item" href="../Project31/project31.php">Project 31 </a></li>
-                            <li><a class="dropdown-item" href="../Project32/project32.php">Project 32</a></li>
-                            <li><a class="dropdown-item" href="../Project33/project33.php">Project 33</a></li>
-                            <li><a class="dropdown-item" href="../Project34/project34.php">Project 34</a></li>
-                            <li><a class="dropdown-item" href="../Project35/project35.php">Project 35</a></li>
-                            <li><a class="dropdown-item" href="../Project36/project36.php">Project 36</a></li>
-                            <li><a class="dropdown-item" href="../Project37/project37.php">Project 37</a></li>
-                            <li><a class="dropdown-item" href="../Project38/project38.php">Project 38</a></li>
-                            <li><a class="dropdown-item" href="../Project39/project39.php">Project 39</a></li>
-                            <li><a class="dropdown-item" href="../Project40/project40.php">Project 40</a></li>
+                            <li><a class="dropdown-item" href="../Project31/project31.php">Project 31 - Password Generator </a></li>
+                            <li><a class="dropdown-item" href="../Project32/project32.php">Project 32 - Good, Cheap, Fast</a></li>
+                            <li><a class="dropdown-item" href="../Project33/project33.php">Project 33 - Notes App</a></li>
+                            <li><a class="dropdown-item" href="../Project34/project34.php">Project 34 - Animated Countdown</a></li>
+                            <li><a class="dropdown-item" href="../Project35/project35.php">Project 35 - Image Carousel</a></li>
+                            <li><a class="dropdown-item" href="../Project36/project36.php">Project 36 - Hoverboard</a></li>
+                            <li><a class="dropdown-item" href="../Project37/project37.php">Project 37 - Pokodex</a></li>
+                            <li><a class="dropdown-item" href="../Project38/project38.php">Project 38 - Mobile Tab Navigation</a></li>
+                            <li><a class="dropdown-item" href="../Project39/project39.php">Project 39 - Password Strength</a></li>
+                            <li><a class="dropdown-item" href="../Project40/project40.php">Project 40 - Verify Account UI</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
