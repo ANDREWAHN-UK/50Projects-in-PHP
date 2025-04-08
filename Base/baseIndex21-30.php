@@ -129,9 +129,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project 29 - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 29 - Double Heart Click</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="../Project29/project29.php" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="../Project29/project29.php" class="btn btn-primary"> Double Heart Click
                         </a>
                     </div>
                 </div>
@@ -139,9 +139,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project 30 - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 30 - Auto Text Effect</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="../Project30/project30.php" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="../Project30/project30.php" class="btn btn-primary"> Auto Text Effect
                         </a>
                     </div>
                 </div>
