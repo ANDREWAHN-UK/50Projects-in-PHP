@@ -11,7 +11,7 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
-    <link rel="stylesheet" href="./Project28.css">
+    <link rel="stylesheet" href="./project28.css">
 
 
     <title>GitHub Profiles</title>
@@ -34,7 +34,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.8.4/axios.min.js"
      integrity="sha512-2A1+/TAny5loNGk3RBbk11FwoKXYOMfAK6R7r4CpQH7Luz4pezqEGcfphoNzB7SM4dixUoJsKkBsB6kg+dNE2g=="
       crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="./Project28.js"></script>
+    <script src="./project28.js"></script>
 
 </body>
 
