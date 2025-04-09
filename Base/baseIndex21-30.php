@@ -127,10 +127,10 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project29/images/29thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 29 - Double Heart Click</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> JS to determine position and number of clicks, and insert a heart on each click, within the image area</p>
                         <a href="../Project29/project29.php" class="btn btn-primary"> Double Heart Click
                         </a>
                     </div>

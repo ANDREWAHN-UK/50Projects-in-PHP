@@ -12,31 +12,24 @@
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
     <link rel="stylesheet" href="./project29.css">
-   
 
-    <title>Double Heart Click</title>
+
+    <title>Double Click Heart</title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
+    <h1>Double Click Heart</h1>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
+    <div class="loveMe"></div>
 
-                <h1>Project Starter</h1>
-                <p>test</p>
-                <p>test</p>
-                
-            </div>
-        </div>
-    </div>
+    <h3>Double click on the image to <i class="fas fa-heart"> </i> it</h3>
+    <small>You liked it <span id="times"> 0 </span> times</small>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./project29.js"></script>
+    <script src="./project29.js"></script>
 
 </body>
 
