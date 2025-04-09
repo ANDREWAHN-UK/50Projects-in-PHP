@@ -117,10 +117,10 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project28/images/28thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 28 - GitHub Profiles</h5>
-                        <p class="card-text"> Use Axios and the GitHub API to search for users and query their repos</p>
+                        <p class="card-text"> Use Axios API, try + catch + async functions. Lots of JS!</p>
                         <a href="../Project28/project28.php" class="btn btn-primary"> GitHub Profiles
                         </a>
                     </div>
