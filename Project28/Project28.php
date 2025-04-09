@@ -24,27 +24,7 @@
         <input type="text" id="search" placeholder="Search a GitHub user">
     </form>
     <main id="main">
-        <div class="card">
-            <div>
-                <img src="https://randomuser.me/api/portraits/men/30.jpg" alt="" class="avatar">
-            </div>
-
-            <div class="user-info">
-                <h2>John</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, eaque.</p>
-                <ul>
-                    <li>300 <strong>followers</strong></li>
-                    <li>30 <strong>following</strong></li>
-                    <li>3 <strong>repos</strong></li>
-                </ul>
-
-                <div id="repos">
-                    <a href="#" class="repo">1</a>
-                    <a href="#" class="repo">2</a>
-                    <a href="#" class="repo">3</a>
-                </div>
-            </div>
-        </div>
+       
 
     </main>
 
