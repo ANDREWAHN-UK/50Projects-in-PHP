@@ -41,9 +41,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 41 - Verify Account UI</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Verify Account UI
                         </a>
                     </div>
                 </div>
@@ -51,9 +51,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 42 - Live User Filter</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Live User Filter
                         </a>
                     </div>
                 </div>
@@ -61,9 +61,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 43 - Feedback UI Design</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Feeback UI Design
                         </a>
                     </div>
                 </div>
@@ -71,9 +71,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 44 - Custom Range Slider</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Custom Range Slider
                         </a>
                     </div>
                 </div>
@@ -81,9 +81,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 45 - Netflix Navigation</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Netflix Navigation
                         </a>
                     </div>
                 </div>
@@ -97,9 +97,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 46 - Quiz App</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Quiz App
                         </a>
                     </div>
                 </div>
@@ -107,9 +107,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 47 - Testimonial Box</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Testimonial Box
                         </a>
                     </div>
                 </div>
@@ -117,9 +117,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 48 - Random Image Feed</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Random Image Feed
                         </a>
                     </div>
                 </div>
@@ -127,9 +127,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 49 - To Do List</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> To Do List
                         </a>
                     </div>
                 </div>
@@ -137,9 +137,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 50 - Insect Catch Game</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Get that Insect
                         </a>
                     </div>
                 </div>

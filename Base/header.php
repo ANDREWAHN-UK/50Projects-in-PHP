@@ -85,7 +85,7 @@
                             <li><a class="dropdown-item" href="../Project37/project37.php">Project 37 - Pokodex</a></li>
                             <li><a class="dropdown-item" href="../Project38/project38.php">Project 38 - Mobile Tab Navigation</a></li>
                             <li><a class="dropdown-item" href="../Project39/project39.php">Project 39 - Password Strength</a></li>
-                            <li><a class="dropdown-item" href="../Project40/project40.php">Project 40 - Verify Account UI</a></li>
+                            <li><a class="dropdown-item" href="../Project40/project40.php">Project 40 - 3D Background Boxes</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -95,16 +95,16 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="/Base/baseIndex41-50.php"> Overview of Projects 41 - 50</a></li>
-                            <li><a class="dropdown-item" href="./Project 1/project1.php">Project 41 -</a></li>
-                            <li><a class="dropdown-item" href="#">Project 42</a></li>
-                            <li><a class="dropdown-item" href="#">Project 43</a></li>
-                            <li><a class="dropdown-item" href="#">Project 44</a></li>
-                            <li><a class="dropdown-item" href="#">Project 45</a></li>
-                            <li><a class="dropdown-item" href="#">Project 46</a></li>
-                            <li><a class="dropdown-item" href="#">Project 47</a></li>
-                            <li><a class="dropdown-item" href="#">Project 48</a></li>
-                            <li><a class="dropdown-item" href="#">Project 49</a></li>
-                            <li><a class="dropdown-item" href="#">Project 50</a></li>
+                            <li><a class="dropdown-item" href="./Project 1/project1.php">Project 41 - Verify Account UI</a></li>
+                            <li><a class="dropdown-item" href="#">Project 42 - Live User Filter </a></li>
+                            <li><a class="dropdown-item" href="#">Project 43 - </a></li>
+                            <li><a class="dropdown-item" href="#">Project 44 - </a></li>
+                            <li><a class="dropdown-item" href="#">Project 45 - </a></li>
+                            <li><a class="dropdown-item" href="#">Project 46 - </a></li>
+                            <li><a class="dropdown-item" href="#">Project 47 - </a></li>
+                            <li><a class="dropdown-item" href="#">Project 48 - </a></li>
+                            <li><a class="dropdown-item" href="#">Project 49 - </a></li>
+                            <li><a class="dropdown-item" href="#">Project 50 - </a></li>
                         </ul>
                     </li>
                 </ul>

@@ -29,7 +29,7 @@
                 Challenges faced were in creating a website to wrap/contain all the projects, because
                 the course format is for 50 individual projects, 50 github entries.
                 <br>
-                <br>Things ramp up here, get a bit complicated</p>
+                <br>Things ramp up here, get a bit more complicated.</p>
 
         </div>
 
@@ -42,9 +42,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 31 - Password Generator</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Password Generator
                         </a>
                     </div>
                 </div>
@@ -52,9 +52,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 32 - Good, Cheap, Fast</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Good, Cheap, Fast
                         </a>
                     </div>
                 </div>
@@ -62,9 +62,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 33 - Notes App</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Notes App
                         </a>
                     </div>
                 </div>
@@ -72,9 +72,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 34 - Animated Countdown</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Animated Countdown
                         </a>
                     </div>
                 </div>
@@ -82,9 +82,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 35 - Image Carousel</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Image Carousel
                         </a>
                     </div>
                 </div>
@@ -98,9 +98,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 36 - Hover Board</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Hover Board
                         </a>
                     </div>
                 </div>
@@ -108,9 +108,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 37 - Pokodex</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Pokodex
                         </a>
                     </div>
                 </div>
@@ -118,9 +118,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 38 - Mobile Tab Navigation</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Mobile Tab Navigation
                         </a>
                     </div>
                 </div>
@@ -128,9 +128,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 39 - Password Strength</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> Password Strength
                         </a>
                     </div>
                 </div>
@@ -138,9 +138,9 @@
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Project - Lorem, ipsum.</h5>
+                        <h5 class="card-title">Project 40 - 3D Background Boxes</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Lorem, ipsum.
+                        <a href="" class="btn btn-primary"> 3D Boxes
                         </a>
                     </div>
                 </div>
