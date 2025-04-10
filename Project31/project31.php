@@ -12,31 +12,62 @@
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
     <link rel="stylesheet" href="./project31.css">
-   
+
 
     <title>Password generator</title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
+    <div class="container1">
 
-                <h1>Password Generator</h1>
-                <p>test</p>
-                <p>test</p>
-                
+    <!-- Because of Bootstrap, if this container is just named "container", it will do some other stuff -->
+        <h2>Password Generator</h2>
+
+        <div class="result-container">
+            <span id="result"></span>
+            <button class="btn-clipboard" id="clipboard">
+                <i class="far fa-clipboard"></i>
+            </button>
+        </div>
+
+        <div class="settings">
+            <div class="setting">
+                <label>Password Length</label>
+                <input type="number" id="length" min="1" max="20" value="20">
+            </div>
+
+            <div class="setting">
+                <label>Include uppercase letters</label>
+                <input type="checkbox" id="uppercase" checked>
+            </div>
+
+            <div class="setting">
+                <label>Include lowercase letters</label>
+                <input type="checkbox" id="lowercase" checked>
+            </div>
+
+            <div class="setting">
+                <label>Include numbers</label>
+                <input type="checkbox" id="numbers" checked>
+            </div>
+
+            <div class="setting">
+                <label>Include symbols</label>
+                <input type="checkbox" id="symbols" checked>
             </div>
         </div>
+
+        <button class="btn-generate btn-large" id="generate">Generate Password</button>
+
     </div>
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./project31.js"></script>
+    <script src="./project31.js"></script>
 
 </body>
 
