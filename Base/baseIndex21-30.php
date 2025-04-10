@@ -137,10 +137,10 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="..//Project30/images/30thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 30 - Auto Text Effect</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> Effectively, a banner, with speed controls. Text is set in the JS, could be randomized. Fun little project.</p>
                         <a href="../Project30/project30.php" class="btn btn-primary"> Auto Text Effect
                         </a>
                     </div>
