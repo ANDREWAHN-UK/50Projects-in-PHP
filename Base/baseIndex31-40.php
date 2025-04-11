@@ -40,11 +40,11 @@
             <div class="row form-group gx-2 gy-2 mt-5 ">
                 <h5>Projects 31 - 35</h5>
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project31/images/31Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 31 - Password Generator</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Password Generator
+                        <p class="card-text"> Password generated using 4 options. A great deal of interlocking JS</p>
+                        <a href="../Project31/project31.php" class="btn btn-primary"> Password Generator
                         </a>
                     </div>
                 </div>
