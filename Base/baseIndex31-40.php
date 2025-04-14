@@ -50,21 +50,21 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project32/images/32Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 32 - Good, Cheap, Fast</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Good, Cheap, Fast
+                        <p class="card-text"> How would you liek your next project? It can be...</p>
+                        <a href="../Project32/project32.php" class="btn btn-primary"> Good, Cheap, Fast
                         </a>
                     </div>
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project33/images/33thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 33 - Notes App</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Notes App
+                        <p class="card-text"> Take notes and save them to local storage. In the future, send the notes to a database?</p>
+                        <a href="../Project33/project33.php" class="btn btn-primary"> Bye Bye Grammarly?
                         </a>
                     </div>
                 </div>
