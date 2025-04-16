@@ -70,10 +70,10 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project34/images/34Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 34 - Animated Countdown</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> Javascript to add and remove classes, css for the animation. This is potentially a countdown before your page loads</p>
                         <a href="" class="btn btn-primary"> Animated Countdown
                         </a>
                     </div>

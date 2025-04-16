@@ -9,34 +9,35 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-
     <link rel="stylesheet" href="../Base/baseStyle.css">
-    <link rel="stylesheet" href="./style.css">
-   
+    <link rel="stylesheet" href="./project34.css">
 
-    <title>Project Starter</title>
+    <title>Animated Countdown</title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
-
-                <h1>Project Starter</h1>
-                <p>test</p>
-                <p>test</p>
-                
-            </div>
+    <div class="counter">
+        <div class="nums">
+            <span class="in">3</span>
+            <span>2</span>
+            <span>1</span>
+            <span>0</span>
         </div>
+         <h4>Get Ready</h4>
+    </div>
+   
+
+    <div class="final hide">
+        <h1>Go!</h1>
+        <button id="replay"><span>Replay</span></button>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./script.js"></script>
+    <script src="./project34.js"></script>
 
 </body>
 
