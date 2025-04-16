@@ -74,7 +74,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Project 34 - Animated Countdown</h5>
                         <p class="card-text"> Javascript to add and remove classes, css for the animation. This is potentially a countdown before your page loads</p>
-                        <a href="" class="btn btn-primary"> Animated Countdown
+                        <a href="../Project34/project34.php" class="btn btn-primary"> Animated Countdown
                         </a>
                     </div>
                 </div>
