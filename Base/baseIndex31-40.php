@@ -96,10 +96,10 @@
             <div class="row form-group gx-2 gy-2 mt-5 ">
                 <h5>Projects 36 - 40</h5>
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project36/images/36Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 36 - Hover Board</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> Hover the mouse on the squares for a psychedelic, very 80's, light show</p>
                         <a href="../Project36/project36.php" class="btn btn-primary"> Hover Board
                         </a>
                     </div>
