@@ -1,4 +1,44 @@
-// Use the below to test the js file has loaded
+const images = document.getElementById("images");
+const leftButton = document.getElementById("left");
+const rightButton = document.getElementById("right");
 
-window.onload=function () {alert('your js file works')}
+const img = document.querySelectorAll("#images img");
+
+let idx = 0;
+
+let interval = setInterval(run, 3000);
+
+function run() {
+  idx++;
+  changeImage();
+}
+
+function changeImage() {
+  if (idx > img.length - 1) {
+    idx = 0;
+  } else if (idx < 0) {
+    idx = img.length - 1;
+  }
+
+  images.style.transform = `translate(${-idx * 500}px)`
+}
+
+function resetInterval(){
+    clearInterval(interval)
+    interval = setInterval(run, 3000)
+}
+
+rightButton.addEventListener('click',()=> {
+    idx++
+    changeImage()
+    resetInterval()
+})
+
+leftButton.addEventListener('click',()=> {
+    idx--
+    changeImage()
+    resetInterval()
+})
+
+
 

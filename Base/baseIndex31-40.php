@@ -80,11 +80,11 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project35/images/35Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 35 - Image Carousel</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Image Carousel
+                        <p class="card-text"> Click left or right to cycle through images. JS used to initiate tranfsformX quality</p>
+                        <a href="../Project35/project35.php" class="btn btn-primary"> Image Carousel
                         </a>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Project 36 - Hover Board</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Hover Board
+                        <a href="../Project36/project36.php" class="btn btn-primary"> Hover Board
                         </a>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Project 37 - Pokodex</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Pokodex
+                        <a href="../Project37/project37.php" class="btn btn-primary"> Pokodex
                         </a>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Project 38 - Mobile Tab Navigation</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Mobile Tab Navigation
+                        <a href="../Project38/project38.php" class="btn btn-primary"> Mobile Tab Navigation
                         </a>
                     </div>
                 </div>
@@ -130,7 +130,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Project 39 - Password Strength</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> Password Strength
+                        <a href="../Project39/project39.php" class="btn btn-primary"> Password Strength
                         </a>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Project 40 - 3D Background Boxes</h5>
                         <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="" class="btn btn-primary"> 3D Boxes
+                        <a href="../Project40/project40.php" class="btn btn-primary"> 3D Boxes
                         </a>
                     </div>
                 </div>
