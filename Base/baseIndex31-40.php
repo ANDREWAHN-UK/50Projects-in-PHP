@@ -109,7 +109,7 @@
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 37 - Pokodex</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> Async await functionality and an API, to create card entries. Obvious application for something like reviews.</p>
                         <a href="../Project37/project37.php" class="btn btn-primary"> Pokodex
                         </a>
                     </div>
