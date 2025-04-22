@@ -23,38 +23,7 @@
  <h1>Pokodex</h1>
 
  <div class="poke-container" id="poke-container">
-    <div class="pokemon" style="background-color: rgb(222,253,224);">
-        <div class="image-container">
-            <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png" alt="">
-        </div>
-        <div class="info">
-            <span class="number">001</span>
-            <h3 class="name"></h3>
-            <small class="type">Type: <span>grass</span></small>
-        </div>
-    </div>
-
-    <div class="pokemon" style="background-color: rgb(222,253,224);">
-        <div class="image-container">
-            <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png" alt="">
-        </div>
-        <div class="info">
-            <span class="number">002</span>
-            <h3 class="name"></h3>
-            <small class="type">Type: <span>grass</span></small>
-        </div>
-    </div>
-
-    <div class="pokemon" style="background-color: rgb(222,253,224);">
-        <div class="image-container">
-            <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png" alt="">
-        </div>
-        <div class="info">
-            <span class="number"></span>
-            <h3 class="name"></h3>
-            <small class="type">Type: <span>grass</span></small>
-        </div>
-    </div>
+    <!-- Everything inside here gets injected by the javascript -->
  </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"

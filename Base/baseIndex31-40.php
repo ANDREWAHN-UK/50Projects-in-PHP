@@ -106,10 +106,10 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project37/images/37thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 37 - Pokodex</h5>
-                        <p class="card-text"> Async await functionality and an API, to create card entries. Obvious application for something like reviews.</p>
+                        <p class="card-text"> Very frustrating project where the video instructions did not work, and nothing else worked but copying hte github code.</p>
                         <a href="../Project37/project37.php" class="btn btn-primary"> Pokodex
                         </a>
                     </div>
