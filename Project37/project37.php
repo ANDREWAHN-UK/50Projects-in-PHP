@@ -11,32 +11,56 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./project37.css">
    
 
-    <title>Project Starter</title>
+    <title>Pokodex</title>
 </head>
 
 <body>
 <?php include '../Base/header.php'; ?>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
+ <h1>Pokodex</h1>
 
-                <h1>Project Starter</h1>
-                <p>test</p>
-                <p>test</p>
-                
-            </div>
+ <div class="poke-container" id="poke-container">
+    <div class="pokemon" style="background-color: rgb(222,253,224);">
+        <div class="image-container">
+            <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png" alt="">
+        </div>
+        <div class="info">
+            <span class="number">001</span>
+            <h3 class="name"></h3>
+            <small class="type">Type: <span>grass</span></small>
         </div>
     </div>
+
+    <div class="pokemon" style="background-color: rgb(222,253,224);">
+        <div class="image-container">
+            <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png" alt="">
+        </div>
+        <div class="info">
+            <span class="number">002</span>
+            <h3 class="name"></h3>
+            <small class="type">Type: <span>grass</span></small>
+        </div>
+    </div>
+
+    <div class="pokemon" style="background-color: rgb(222,253,224);">
+        <div class="image-container">
+            <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png" alt="">
+        </div>
+        <div class="info">
+            <span class="number"></span>
+            <h3 class="name"></h3>
+            <small class="type">Type: <span>grass</span></small>
+        </div>
+    </div>
+ </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./script.js"></script>
+ <script src="./project37.js"></script>
 
 </body>
 
