@@ -53,7 +53,7 @@
                     <img src="../Project32/images/32Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 32 - Good, Cheap, Fast</h5>
-                        <p class="card-text"> How would you liek your next project? It can be...</p>
+                        <p class="card-text"> How would you like your next project? It can be...</p>
                         <a href="../Project32/project32.php" class="btn btn-primary"> Good, Cheap, Fast
                         </a>
                     </div>
@@ -73,7 +73,7 @@
                     <img src="../Project34/images/34Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 34 - Animated Countdown</h5>
-                        <p class="card-text"> Javascript to add and remove classes, css for the animation. This is potentially a countdown before your page loads</p>
+                        <p class="card-text"> Javascript to add and remove classes, css for the animation. This is potentially a countdown before your page loads.</p>
                         <a href="../Project34/project34.php" class="btn btn-primary"> Animated Countdown
                         </a>
                     </div>
@@ -99,7 +99,7 @@
                     <img src="../Project36/images/36Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 36 - Hover Board</h5>
-                        <p class="card-text"> Hover the mouse on the squares for a psychedelic, very 80's, light show</p>
+                        <p class="card-text"> Hover the mouse on the squares for a psychedelic, very 80's, light show.</p>
                         <a href="../Project36/project36.php" class="btn btn-primary"> Hover Board
                         </a>
                     </div>
