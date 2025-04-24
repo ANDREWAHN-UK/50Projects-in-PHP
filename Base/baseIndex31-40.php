@@ -119,7 +119,7 @@
                     <img src="../Project38/images/38thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 38 - Mobile Tab Navigation</h5>
-                        <p class="card-text"> js does not work, this time even with the original code. Project failure</p>
+                        <p class="card-text"> Be careful using nav divs in a page as the header also triggers off nav. This page is useful for mocking up mobile view ports</p>
                         <a href="../Project38/project38.php" class="btn btn-primary"> Mobile Tab Navigation
                         </a>
                     </div>
