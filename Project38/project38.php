@@ -20,17 +20,18 @@
 <body>
     <?php include '../Base/header.php'; ?>
 
-    <div class="phone" >
+    <div class="phone">
         <div class="images" id="images"><img src="https://images.unsplash.com/photo-1744439890614-2800f2b0871c?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            alt="home" class="content show">
-        <img src="https://images.unsplash.com/photo-1745185948516-cfbdd0ae4400?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            alt="" class="content">
-        <img src="https://images.unsplash.com/photo-1744023018283-b1bbb84dd0df?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-         alt="" class="content">
-        <img src="https://images.unsplash.com/photo-1744955913865-853beac35448?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-         alt="" class="content"></div>
-        
-        <nav class="mob-nav">
+                alt="home" class="content show">
+            <img src="https://images.unsplash.com/photo-1745185948516-cfbdd0ae4400?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="" class="content">
+            <img src="https://images.unsplash.com/photo-1744023018283-b1bbb84dd0df?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="" class="content">
+            <img src="https://images.unsplash.com/photo-1744955913865-853beac35448?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="" class="content">
+        </div>
+
+        <main class="mob-nav">
             <ul>
                 <li class="active">
                     <i class="fas fa-home"></i>
@@ -49,7 +50,7 @@
                     <p>About us</p>
                 </li>
             </ul>
-        </nav>
+        </main>
     </div>
 
 
