@@ -9,34 +9,43 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.8.11/tailwind.min.css"
+        integrity="sha512-KO1h5ynYuqsFuEicc7DmOQc+S9m2xiCKYlC3zcZCSEw0RGDsxcMnppRaMZnb0DdzTDPaW22ID/gAGCZ9i+RT/w=="
+        crossorigin="anonymous" />
     <link rel="stylesheet" href="../Base/baseStyle.css">
-    <link rel="stylesheet" href="./style.css">
-   
-
-    <title>Project Starter</title>
+    <link rel="stylesheet" href="./project39.css">
+    <title>Password Strength background</title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
+    <div class="background" id="background"></div>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
+    <div class="bg-white rounded p-10 text-center shadow-md">
 
-                <h1>Project Starter</h1>
-                <p>test</p>
-                <p>test</p>
-                
-            </div>
+        <h1 class="text-3xl">Image Password Strength</h1>
+        <p class="text-sm text-grey-700">Change the password to see the effect on the background image</p>
+
+        <div class="my-4 text-left">
+            <label for="email" class="text-grey-900">Email:</label>
+            <input type="text" class="border block w-full p-2 mt-2 rounded" id="email" placeholder="Enter email">
         </div>
+
+        <div class="my-4 text-left">
+            <label for="password" class="text-grey-900">Password:</label>
+            <input type="password" class="border block w-full p-2 mt-2 rounded" id="password" placeholder="Enter password">
+        </div>
+
+        <button class="bg-black text-white py-2 mt-4 inline-block w-full rounded" type="submit">Submit</button>
+
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./script.js"></script>
+    <script src="./project39.js"></script>
 
 </body>
 
