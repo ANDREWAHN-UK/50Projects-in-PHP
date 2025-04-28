@@ -139,7 +139,7 @@
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 40 - 3D Background Boxes</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> Pseudo selectors, transitions and for loops, to create boxes that look like 3D</p>
                         <a href="../Project40/project40.php" class="btn btn-primary"> 3D Boxes
                         </a>
                     </div>
