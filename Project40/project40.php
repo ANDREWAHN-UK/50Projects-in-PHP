@@ -12,20 +12,25 @@
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
     <link rel="stylesheet" href="./project40.css">
-   
+
 
     <title>3D Background Boxes</title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
 
-   
+    <button id="button" class="magic">Magic! 🎩</button>
+    <p>Click the magic button</p>
+
+    <div id="boxes" class="boxes">
+        
+    </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./project40.js"></script>
+    <script src="./project40.js"></script>
 
 </body>
 

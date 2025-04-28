@@ -136,7 +136,7 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project40/images/40thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 40 - 3D Background Boxes</h5>
                         <p class="card-text"> Pseudo selectors, transitions and for loops, to create boxes that look like 3D</p>
