@@ -11,32 +11,32 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
-    <link rel="stylesheet" href="./style.css">
-   
+    <link rel="stylesheet" href="./project42.css">
 
-    <title>Project Starter</title>
+    <title>Live User Filter</title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
-
-                <h1>Project Starter</h1>
-                <p>test</p>
-                <p>test</p>
-                
-            </div>
+    <div class="container container-1">
+        <div class="header">
+            <h4 class="title">Live User Filter</h4>
+            <small class="subtitle">
+                Search by name and/or location
+            </small>
+            <input type="text" name="" id="filter" placeholder="search">
         </div>
+        <ul id="result" class="user-list">
+            
+            <li><h3>Loading...</h3></li>
+        </ul>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./script.js"></script>
+    <script src="./project42.js"></script>
 
 </body>
 
