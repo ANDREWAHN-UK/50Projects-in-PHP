@@ -95,16 +95,16 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="/Base/baseIndex41-50.php"> Overview of Projects 41 - 50</a></li>
-                            <li><a class="dropdown-item" href="./Project41/project41.php">Project 41 - Verify Account UI</a></li>
-                            <li><a class="dropdown-item" href="#">Project 42 - Live User Filter </a></li>
-                            <li><a class="dropdown-item" href="#">Project 43 - </a></li>
-                            <li><a class="dropdown-item" href="#">Project 44 - </a></li>
-                            <li><a class="dropdown-item" href="#">Project 45 - </a></li>
-                            <li><a class="dropdown-item" href="#">Project 46 - </a></li>
-                            <li><a class="dropdown-item" href="#">Project 47 - </a></li>
-                            <li><a class="dropdown-item" href="#">Project 48 - </a></li>
-                            <li><a class="dropdown-item" href="#">Project 49 - </a></li>
-                            <li><a class="dropdown-item" href="#">Project 50 - </a></li>
+                            <li><a class="dropdown-item" href="../Project41/project41.php">Project 41 - Verify Account UI</a></li>
+                            <li><a class="dropdown-item" href="../Project42/project42.php">Project 42 - Live User Filter </a></li>
+                            <li><a class="dropdown-item" href="../Project43/project43.php">Project 43 - Feedback UI Design</a></li>
+                            <li><a class="dropdown-item" href="../Project44/project44.php">Project 44 - Custom Range Slider</a></li>
+                            <li><a class="dropdown-item" href="../Project45/project45.php">Project 45 - Netflix Navigation</a></li>
+                            <li><a class="dropdown-item" href="../Project46/project46.php">Project 46 - Quiz App</a></li>
+                            <li><a class="dropdown-item" href="../Project47/project47.php">Project 47 - Testimonial Box</a></li>
+                            <li><a class="dropdown-item" href="../Project48/project48.php">Project 48 - Random Image Feed</a></li>
+                            <li><a class="dropdown-item" href="../Project49/project49.php">Project 49 - To Do List</a></li>
+                            <li><a class="dropdown-item" href="../Project50/project50.php">Project 50 - Insect Catch Game</a></li>
                         </ul>
                     </li>
                 </ul>
