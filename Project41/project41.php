@@ -12,31 +12,34 @@
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
     <link rel="stylesheet" href="./project41.css">
-   
 
-    <title>Project Starter</title>
+
+    <title>
+        Verify Account UI
+    </title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
-
-                <h1>Project Starter</h1>
-                <p>test</p>
-                <p>test</p>
-                
-            </div>
+    <div class="container container-1">
+        <h2>Verify your Account</h2>
+        <p>We emailed you a 6 digit code. <br>Please enter it below to confirm your email address.</p>
+        <div class="code-container">
+            <input type="number" name="" id="" class="code" placeholder="0" min="0" max="9">
+            <input type="number" name="" id="" class="code" placeholder="0" min="0" max="9">
+            <input type="number" name="" id="" class="code" placeholder="0" min="0" max="9">
+            <input type="number" name="" id="" class="code" placeholder="0" min="0" max="9">
+            <input type="number" name="" id="" class="code" placeholder="0" min="0" max="9">
+            <input type="number" name="" id="" class="code" placeholder="0" min="0" max="9">
         </div>
+        <small class="info">This is design only. Don't check your email.</small>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./project41.js"></script>
+    <script src="./project41.js"></script>
 
 </body>
 

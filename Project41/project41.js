@@ -1,4 +1,20 @@
-// Use the below to test the js file has loaded
+const codes = document.querySelectorAll(".code");
 
-window.onload=function () {alert('your js file works')}
+codes[0].focus();
 
+codes.forEach((code, idx) => {
+  code.addEventListener("keydown", (e) => {
+    if (e.key >= 0 && e.key <= 9) {
+        codes[idx].value = ''
+      setTimeout(() => focusInput(codes[idx + 1], 10));
+    } else if(e.key === 'Backspace'){
+      setTimeout(() => focusInput(codes[idx - 1], 10));
+    }
+  });
+});
+
+function focusInput(input) {
+    if (input) {
+      input.focus();
+    }
+  }
