@@ -39,10 +39,10 @@
             <div class="row form-group gx-2 gy-2 mt-5 ">
                 <h5>Projects 41 - 45</h5>
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project41/images/41thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 41 - Verify Account UI</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> UI to verify codes sent by email</p>
                         <a href="" class="btn btn-primary"> Verify Account UI
                         </a>
                     </div>
