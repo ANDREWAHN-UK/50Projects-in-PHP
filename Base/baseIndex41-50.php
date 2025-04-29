@@ -52,7 +52,7 @@
                     <img src="..//Project42/images/42Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 42 - Live User Filter</h5>
-                        <p class="card-text"> API and async functions to fetch and filter data</p>
+                        <p class="card-text"> API and async functions to fetch and filter data. Be patient when it loads.</p>
                         <a href="../Project42/project42.php" class="btn btn-primary"> Live User Filter
                         </a>
                     </div>
