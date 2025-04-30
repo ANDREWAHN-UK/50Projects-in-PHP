@@ -59,11 +59,11 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project43/images/43Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 43 - Feedback UI Design</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
-                        <a href="../Project43/project43.php" class="btn btn-primary"> Feeback UI Design
+                        <p class="card-text"> Event bubbling and event propagation, and changing the inner HTML.</p>
+                        <a href="../Project43/project43.php" class="btn btn-primary"> how did we do?
                         </a>
                     </div>
                 </div>
