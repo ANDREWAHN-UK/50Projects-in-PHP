@@ -69,10 +69,10 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project44/images/44thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 44 - Custom Range Slider</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> Lots of calculating length and width and some fancy math</p>
                         <a href="../Project44/project44.php" class="btn btn-primary"> Custom Range Slider
                         </a>
                     </div>
