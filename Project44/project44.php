@@ -12,20 +12,26 @@
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
     <link rel="stylesheet" href="./project44.css">
-   
 
-    <title>Custome Range Slider</title>
+
+    <title>Custom Range Slider</title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
 
-  
+<h2>Custom Range Slider</h2>
+<div class="range-container">
+    <input type="range" name="" id="range"min="0" max="100">
+    <label for="range">50</label>
+</div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-        crossorigin="anonymous"></script>
- <script src="./project44.js"></script>
+        crossorigin="anonymous">
+    </script>
+
+    <script src="./project44.js"></script>
 
 </body>
 
