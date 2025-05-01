@@ -16,7 +16,7 @@
 <body>
 
 <?php include 'header.php'; ?>
-    <div class="px-4 py-5 my-5 text-center container-fluidcontainer-top">
+    <div class="px-4 py-5 my-5 text-center container-fluid container-top">
       
         <img class="d-block mx-auto mt-10 mb-4" src="../Base/baseMedia/endJourney.jpg" alt="" width="500" height="500">
         <h1 class="display-5 fw-bold text-body-emphasis">50 Projects in 50 Days!</h1>
@@ -82,7 +82,7 @@
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 45 - Netflix Navigation</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> A clean looking menu that mimicks the Netflix scheme</p>
                         <a href="../Project45/project45.php" class="btn btn-primary"> Netflix Navigation
                         </a>
                     </div>
