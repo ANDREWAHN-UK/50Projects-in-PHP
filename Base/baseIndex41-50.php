@@ -79,7 +79,7 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="..//Project45/images/45Thumb.png" class="card-img-top" alt="...">
+                    <img src="../Project45/images/45Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 45 - Netflix Navigation</h5>
                         <p class="card-text"> A clean looking menu that mimicks the Netflix scheme. This can be easily adapted for any website. I used the eXplorminate logo here.</p>
@@ -95,7 +95,7 @@
             <div class="row form-group gx-2 gy-2 mt-5 ">
                 <h5>Projects 46 - 50</h5>
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project46/images/46Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 46 - Quiz App</h5>
                         <p class="card-text"> A Basic Quiz App, obvious applications for a learning program. This uses js arrays for the questions and answers</p>
