@@ -42,7 +42,7 @@
                     <img src="../Project41/images/41thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 41 - Verify Account UI</h5>
-                        <p class="card-text"> UI to verify codes sent by email</p>
+                        <p class="card-text"> UI to verify codes sent by email.</p>
                         <a href="../Project41/project41.php" class="btn btn-primary"> Verify Account UI
                         </a>
                     </div>
@@ -72,14 +72,14 @@
                     <img src="../Project44/images/44thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 44 - Custom Range Slider</h5>
-                        <p class="card-text"> Lots of calculating length and width and some fancy math</p>
+                        <p class="card-text"> Lots of calculating length and width and some fancy math.</p>
                         <a href="../Project44/project44.php" class="btn btn-primary"> Custom Range Slider
                         </a>
                     </div>
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="..//Project45/images/45Thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 45 - Netflix Navigation</h5>
                         <p class="card-text"> A clean looking menu that mimicks the Netflix scheme. This can be easily adapted for any website. I used the eXplorminate logo here.</p>
