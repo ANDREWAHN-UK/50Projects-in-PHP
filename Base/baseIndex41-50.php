@@ -105,10 +105,10 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project47/images/47thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 47 - Testimonial Box</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> In the future, linking this to a real database would be a fun upgrade</p>
                         <a href="../Project47/project47.php" class="btn btn-primary"> Testimonial Box
                         </a>
                     </div>
