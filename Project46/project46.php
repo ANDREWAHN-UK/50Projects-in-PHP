@@ -12,31 +12,41 @@
 
     <link rel="stylesheet" href="../Base/baseStyle.css">
     <link rel="stylesheet" href="./project46.css">
-   
+
 
     <title>Quiz App</title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
+    <div class="quiz-container" id="quiz">
+        <div class="quiz-header">
+            <h2 id="question">Question Text</h2>
+            <ul>
+                <li><input type="radio" name="answer" id="a" class="answer">
+                    <label for="a" id="a_text">Question</label>
+                </li>
+                <li><input type="radio" name="answer" id="b" class="answer">
+                    <label for="b" id="b_text">Question</label>
+                </li>
+                <li><input type="radio" name="answer" id="c" class="answer">
+                    <label for="c" id="c_text">Question</label>
+                </li>
+                <li><input type="radio" name="answer" id="d" class="answer">
+                    <label for="c" id="d_text">Question</label>
+                </li>
 
-                <h1>Project Starter</h1>
-                <p>test</p>
-                <p>test</p>
-                
-            </div>
+            </ul>
         </div>
+
+        <button id="submit">Submit</button>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./project46.js"></script>
+    <script src="./project46.js"></script>
 
 </body>
 
