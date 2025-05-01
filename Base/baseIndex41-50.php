@@ -98,7 +98,7 @@
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 46 - Quiz App</h5>
-                        <p class="card-text"> A Basic Quiz App, obvious applications for a learning program</p>
+                        <p class="card-text"> A Basic Quiz App, obvious applications for a learning program. This uses js arrays for the questions and answers</p>
                         <a href="../Project46/project46.php" class="btn btn-primary"> Quiz App
                         </a>
                     </div>
