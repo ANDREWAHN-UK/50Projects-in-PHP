@@ -82,7 +82,7 @@
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 45 - Netflix Navigation</h5>
-                        <p class="card-text"> A clean looking menu that mimicks the Netflix scheme</p>
+                        <p class="card-text"> A clean looking menu that mimicks the Netflix scheme. This can be easily adapted for any website. I used the eXplorminate logo here.</p>
                         <a href="../Project45/project45.php" class="btn btn-primary"> Netflix Navigation
                         </a>
                     </div>
