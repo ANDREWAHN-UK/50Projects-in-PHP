@@ -128,7 +128,7 @@
                     <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 49 - To Do List</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> A simple to do list, with left click to mark as done and right click to remove </p>
                         <a href="../Project49/project49.php" class="btn btn-primary"> To Do List
                         </a>
                     </div>
