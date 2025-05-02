@@ -115,7 +115,7 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="..//Project48/images/48thumb.png" class="card-img-top" alt="...">
+                    <img src="../Project48/images/48thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 48 - Random Image Feed</h5>
                         <p class="card-text"> Not using an API, cool little project, originally with Unsplash, now with picsum</p>
