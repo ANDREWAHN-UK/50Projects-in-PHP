@@ -13,6 +13,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    color: white;
 }
 
 .title{
@@ -26,7 +27,7 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     max-width: 1000px;
-    padding-top: 150px;
+    /* padding-top: 150px; */
     height: 100vh;
 }
 
@@ -37,3 +38,6 @@ body {
     width: 300px;
 }
 
+.container-1{
+    margin-top: 60% !important;
+}

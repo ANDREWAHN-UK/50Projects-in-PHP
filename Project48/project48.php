@@ -19,7 +19,22 @@
 
 <body>
     <?php include '../Base/header.php'; ?>
-  
+
+    <div class="container mt-5 mb-5 container-1">
+        <div class="row gy-5">
+            <div class="col-lg-6 mx-auto  ">
+                <img class="d-block mx-auto mb-4" src="../Base/baseMedia/illustration-man-reading-big-book-260nw-2291297263.webp" alt="" width="500" height="500">
+
+                <h1>Random Image Feed</h1>
+                <p>The images are taken from Picsum, originally unsplash.
+                    If you add a random size to the image, Picsum will generate a random image.
+                    So, in the javascript, we create random sizes through a random number generator, going from 300 to 310 pixels.
+                    This way, the image are all roughly the same size. Then in the CSS the images are styled so that all fit the same box. <br>
+                Every time the page is reloaded, new images are generated.</p>
+            </div>
+        </div>
+    </div>
+
     <div class="image-container ">
 
     </div>
