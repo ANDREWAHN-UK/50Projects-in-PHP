@@ -20,11 +20,13 @@
 <body>
     <?php include '../Base/header.php'; ?>
 
-
-
     <div class="screen">
         <h1>Catch me if you can</h1>
         <button class="button" id="startButton">Play Game</button>
+    </div>
+
+    <div class="screen">
+        
         <h1>Choose your insect</h1>
 
         <ul class="insectsList">
@@ -37,13 +39,13 @@
             <li>
                 <button class="chooseInsectButton">
                     <p>Cockroach</p>
-                    <img src="https://atlas-content-cdn.pixelsquid.com/stock-images/american-cockroach-1VJ9yYF-600.jpg" alt="Cockroach">
+                    <img src="https://pngimg.com/d/roach_PNG12163.png" alt="Cockroach">
                 </button>
             </li>
             <li>
                 <button class="chooseInsectButton">
                     <p>Ant</p>
-                    <img src="https://atlas-content-cdn.pixelsquid.com/stock-images/ant-4oNeMQ4-600.jpg" alt="Ant">
+                    <img src="https://pngimg.com/d/ant_PNG19345.png" alt="Ant">
                 </button>
             </li>
             <li>
@@ -57,9 +59,9 @@
     </div>
 
     <div class="screen game-container">
-        <h3 id="time">Time: 00:00</h3>
-        <h3 id="score">Score: 0</h3>
-        <h5 id="message">Are you having fun? <br>This is an unwinnable game.</h5>
+        <h3 id="time"class="time">Time: 00:00</h3>
+        <h3 id="score" class="score">Score: 0</h3>
+        <h5 id="message" class="message ">Are you having fun? <br>This is an unwinnable game.</h5>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
