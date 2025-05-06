@@ -10,33 +10,62 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="../Base/baseStyle.css">
-    <link rel="stylesheet" href="./style.css">
-   
+    <!-- <link rel="stylesheet" href="../Base/baseStyle.css"> -->
+    <link rel="stylesheet" href="./project50.css">
 
-    <title>Project Starter</title>
+
+    <title>Get that insect</title>
 </head>
 
 <body>
-<?php include '../Base/header.php'; ?>
+    <?php include '../Base/header.php'; ?>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
 
-                <h1>Project Starter</h1>
-                <p>test</p>
-                <p>test</p>
-                
-            </div>
-        </div>
+
+    <div class="screen">
+        <h1>Catch me if you can</h1>
+        <button class="button" id="startButton">Play Game</button>
+        <h1>Choose your insect</h1>
+
+        <ul class="insectsList">
+            <li>
+                <button class="chooseInsectButton">
+                    <p>Fly</p>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/202101_Fruitfly.png" alt="House fly">
+                </button>
+            </li>
+            <li>
+                <button class="chooseInsectButton">
+                    <p>Cockroach</p>
+                    <img src="https://atlas-content-cdn.pixelsquid.com/stock-images/american-cockroach-1VJ9yYF-600.jpg" alt="Cockroach">
+                </button>
+            </li>
+            <li>
+                <button class="chooseInsectButton">
+                    <p>Ant</p>
+                    <img src="https://atlas-content-cdn.pixelsquid.com/stock-images/ant-4oNeMQ4-600.jpg" alt="Ant">
+                </button>
+            </li>
+            <li>
+                <button class="chooseInsectButton">
+                    <p>Spider</p>
+                    <img src="https://pics.clipartpng.com/Spider_PNG_Clip_Art-1596.png" alt="Spider">
+                </button>
+            </li>
+        </ul>
+
+    </div>
+
+    <div class="screen game-container">
+        <h3 id="time">Time: 00:00</h3>
+        <h3 id="score">Score: 0</h3>
+        <h5 id="message">Are you having fun? <br>This is an unwinnable game.</h5>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
- <script src="./script.js"></script>
+    <script src="./project50.js"></script>
 
 </body>
 

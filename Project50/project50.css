@@ -1,17 +1,51 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 
 *{
 box-sizing: border-box;}
 
 body {
-    background-color: #686d80;
-    font-family: 'Roboto', sans-serif;
+    background-color: #abfded;
+    font-family: 'Press Start 2P', sans-serif;
     margin: 0;
+    text-align: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.navbar {
+    font-family: 'Roboto';
+    position: fixed;
+    top: 0;
+    left: 20%;
+    width: 60% !important;
+    background-color: rgba(255, 255, 255, 0);
+    z-index: 100;
+}
+.screen{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    overflow: hidden;
+    width: 100vw;
+}
+
+.chooseInsectButton img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.button{
+    border: 0;
+    background-color: white;
+    color: #101615;
+    padding: 15px 20px;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.button:hover{
+    opacity: 0.8;
 }
