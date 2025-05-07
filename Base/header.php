@@ -91,7 +91,7 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false">
-                            Projects 41 - 50
+                            Projects 41 - 51
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="/Base/baseIndex41-50.php"> Overview of Projects 41 - 50</a></li>
@@ -105,6 +105,7 @@
                             <li><a class="dropdown-item" href="../Project48/project48.php">Project 48 - Random Image Feed</a></li>
                             <li><a class="dropdown-item" href="../Project49/project49.php">Project 49 - To Do List</a></li>
                             <li><a class="dropdown-item" href="../Project50/project50.php">Project 50 - Insect Catch Game</a></li>
+                            <li><a class="dropdown-item" href="../Project51/project51.php">Project 51 - Bonus: Timer</a></li>
                         </ul>
                     </li>
                 </ul>

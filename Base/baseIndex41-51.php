@@ -143,6 +143,13 @@
                         </a>
                     </div>
                 </div>
+                <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
+            <img src="../Project 1/Media/gs7.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Project 51</h5>
+                <p class="card-text">A simple timer</p>
+                <a href="../Project51/project51.php" class="btn btn-primary">Bonus Project</a>
+            </div>
 
             </div>
 

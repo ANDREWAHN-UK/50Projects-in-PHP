@@ -92,9 +92,9 @@
             <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
                 <img src="../Project 5/media/RE4wwte (1).jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Project 41 - 50</h5>
-                    <p class="card-text"> The last ten projects. Woohooo! </p>
-                    <a href="../Base/baseIndex41-50.php" class="btn btn-primary"> The end is near</a>
+                    <h5 class="card-title">Project 41 - 51</h5>
+                    <p class="card-text"> The last ten projects, and a bonus. Woohooo! </p>
+                    <a href="../Base/baseIndex41-51.php" class="btn btn-primary"> The end is near</a>
                 </div>
             </div>
 
@@ -103,7 +103,7 @@
             <div class="card-body">
                 <h5 class="card-title">Project 51</h5>
                 <p class="card-text">A simple timer</p>
-                <a href="../Base/baseIndex1-10.php" class="btn btn-primary">Bonus Project</a>
+                <a href="../Project51/project51.php" class="btn btn-primary">Bonus Project</a>
             </div>
         </div>
 

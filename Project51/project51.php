@@ -20,18 +20,7 @@
 <body>
 <?php include '../Base/header.php'; ?>
 
-    <div class="container mt-5 mb-5 container-1">
-        <div class="row gy-5">
-            <div class="col-lg-6 mx-auto  ">
-                <img class="d-block mx-auto mb-4" src="/baseMedia/ladyOnRocket.gif" alt="" width="500" height="500">
-
-                <h1>Project Starter</h1>
-                <p>test</p>
-                <p>test</p>
-                
-            </div>
-        </div>
-    </div>
+  <p>test</p>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
