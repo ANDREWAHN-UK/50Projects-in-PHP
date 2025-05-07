@@ -28,7 +28,7 @@
                     <br> <br>
                     As per other projects, the js is used to add and remove html elements and classes.
                     Some issues were encountered when the js registered certain elements as null.
-                    To solve this, those elements were delted, and then recreated. It is a mystery that this worked.
+                    To solve this, those elements were deleted, and then recreated. It is a mystery that this worked.
                 <br> <br>
                 Local storage did not work, instead pulled in all the list item elements in the whole website, i.e. the entire navigation bar.</p>
 
