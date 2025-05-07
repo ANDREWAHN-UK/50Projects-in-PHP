@@ -125,7 +125,7 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project49/images/49thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 49 - To Do List</h5>
                         <p class="card-text"> A simple to do list, with left click to mark as done and right click to remove </p>
@@ -135,10 +135,10 @@
                 </div>
 
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-                    <img src="../Base/baseMedia/ladyOnRocket.gif" class="card-img-top" alt="...">
+                    <img src="../Project50/images/50thumb.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Project 50 - Insect Catch Game</h5>
-                        <p class="card-text"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae, quia.</p>
+                        <p class="card-text"> A silly game, using js for creating HTML elements, running a timer etc. In future this could be turned into a real game</p>
                         <a href="../Project50/project50.php" class="btn btn-primary"> Get that Insect
                         </a>
                     </div>
