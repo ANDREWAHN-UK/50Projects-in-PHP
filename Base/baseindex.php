@@ -42,10 +42,9 @@
 
         </div>
 
-        
     </div>
-   
-</div>
+
+    </div>
 
     <div class="container px-4 py-1 my-1 text-center">
         <!-- Use the rows below to display cards the link to the pages with the links to the projects -->
@@ -99,18 +98,18 @@
             </div>
 
             <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-            <img src="../Project 1/Media/gs7.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Project 51</h5>
-                <p class="card-text">A simple timer</p>
-                <a href="../Project51/project51.php" class="btn btn-primary">Bonus Project</a>
+                <img src="../Project51/images/51thumb.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Project 51</h5>
+                    <p class="card-text">A simple timer. In future, allow users to set their own timer.</p>
+                    <a href="../Project51/project51.php" class="btn btn-primary">Tick tock tick</a>
+                </div>
+
             </div>
-        </div>
 
         </div>
 
-
-
+    </div>
 
     </div>
 

@@ -15,9 +15,9 @@
 
 <body>
 
-<?php include 'header.php'; ?>
+    <?php include 'header.php'; ?>
     <div class="px-4 py-5 my-5 text-center container-fluid container-top">
-      
+
         <img class="d-block mx-auto mt-10 mb-4" src="../Base/baseMedia/endJourney.jpg" alt="" width="500" height="500">
         <h1 class="display-5 fw-bold text-body-emphasis">50 Projects in 50 Days!</h1>
 
@@ -28,7 +28,8 @@
                 to allow people to navigate to the individual projects.
                 Challenges faced were in creating a website to wrap/contain all the projects, because
                 the course format is for 50 individual projects, 50 github entries.
-               <br><br>Is this...the end? Or just another beginning.</p>
+                <br><br>Is this...the end? Or just another beginning.
+            </p>
 
         </div>
 
@@ -144,24 +145,24 @@
                     </div>
                 </div>
                 <div class="card mx-2" style="width: 15rem;" style="height: 10rem;">
-            <img src="../Project 1/Media/gs7.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Project 51</h5>
-                <p class="card-text">A simple timer</p>
-                <a href="../Project51/project51.php" class="btn btn-primary">Bonus Project</a>
-            </div>
+                    <img src="../Project51/images/51thumb.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Project 51</h5>
+                        <p class="card-text">A simple timer. Use js to calculate the degrees for the circle, to coincide with the timer. In future, allow users to set their own timer.</p>
+                        <a href="../Project51/project51.php" class="btn btn-primary">Tick tock tick</a>
+                    </div>
+
+                </div>
 
             </div>
 
         </div>
 
-    </div>
- 
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-        crossorigin="anonymous"></script>
-    
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
+
 </body>
 
 </html>
