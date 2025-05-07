@@ -58,7 +58,7 @@
 
     </div>
 
-    <div class="screen game-container">
+    <div class="screen game-container" id="gameContainer">
         <h3 id="time"class="time">Time: 00:00</h3>
         <h3 id="score" class="score">Score: 0</h3>
         <h5 id="message" class="message ">Are you having fun? <br>This is an unwinnable game.</h5>
